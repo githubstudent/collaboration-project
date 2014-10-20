@@ -1,4 +1,4 @@
-# Contribution Guidelines
+# Contributing Guidelines
 
 * Always use a topic branch
 * Commit often
